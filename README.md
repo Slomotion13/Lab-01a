@@ -8,3 +8,8 @@
 
 
 ~~ ~~ this is text 
+
+
+git status
+git add
+git commit
