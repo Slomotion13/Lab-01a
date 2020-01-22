@@ -7,9 +7,11 @@
 - [Learning from 01/21/2020](/class-1.md)
 
 
-~~ ~~ this is text 
+~~this is text~~ 
 
 
+```
 git status
 git add
 git commit
+```
